@@ -1,10 +1,4 @@
-function loginCall(config, loginID, password)  {
-    console.log("in Login Call");
-    console.log(config);
-    console.log(loginID);
-    console.log(password);
-}
-
+import loginCall from './src/methods/loginCall';
 
 function getVendorInterface(env, loginId, password){
     loginCall(env, loginId,password);
