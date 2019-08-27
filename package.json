@@ -1,0 +1,11 @@
+{
+  "name": "demo_vendor_layer",
+  "version": "1.0.0",
+  "description": "layer for vendors to interact with core server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
