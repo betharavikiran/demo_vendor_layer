@@ -5,4 +5,4 @@ function loginCall(config, loginID, password)  {
     console.log(password);
 }
 
-module.exports = loginCall;
+export default loginCall;
